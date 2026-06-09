@@ -1,5 +1,15 @@
 [
   {
+    "id": "test-curl-001",
+    "image": "https://res.cloudinary.com/dvwl9wcxe/image/upload/sample.jpg",
+    "date": "2026-06-09",
+    "sourceName": "example.com",
+    "sourceUrl": "https://www.example.com/test-article",
+    "title": "Test",
+    "summary": "Test",
+    "content": "Para."
+  },
+  {
     "id": "sample-001",
     "title": "New PTSD Treatment Center Opens for IDF Veterans",
     "summary": "A new state-of-the-art rehabilitation center dedicated to post-trauma care for veterans has opened, offering innovative therapies not previously available in Israel.",
