@@ -1,25 +1,5 @@
 [
   {
-    "id": "test-curl-001",
-    "image": "https://res.cloudinary.com/dvwl9wcxe/image/upload/sample.jpg",
-    "date": "2026-06-09",
-    "sourceName": "example.com",
-    "sourceUrl": "https://www.example.com/test-article",
-    "title": "Test",
-    "summary": "Test",
-    "content": "Para."
-  },
-  {
-    "id": "sample-001",
-    "title": "New PTSD Treatment Center Opens for IDF Veterans",
-    "summary": "A new state-of-the-art rehabilitation center dedicated to post-trauma care for veterans has opened, offering innovative therapies not previously available in Israel.",
-    "content": "A new state-of-the-art rehabilitation center dedicated to post-trauma care for veterans has opened this week.\n\nThe center offers a range of innovative therapies, including physiological and technology-assisted approaches not previously available in Israel.\n\nGenesis Friends For Life helped connect the initiative to international expertise and funding.",
-    "image": "images/og-preview.png",
-    "date": "2026-06-08",
-    "sourceName": "Example",
-    "sourceUrl": "https://example.com/article"
-  },
-  {
     "id": "recF02v8jXyTVicrI",
     "image": "https://res.cloudinary.com/dvwl9wcxe/image/upload/v1781029443/g22g1446nndubl3agmdk.png",
     "date": "2026-06-07",
