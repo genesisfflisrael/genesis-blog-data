@@ -1,5 +1,15 @@
 [
   {
+    "id": "test-curl-001",
+    "image": "https://res.cloudinary.com/dvwl9wcxe/image/upload/sample.jpg",
+    "date": "2026-06-09",
+    "sourceName": "example.com",
+    "sourceUrl": "https://www.example.com/test-article",
+    "title": "????? ?????",
+    "summary": "?????",
+    "content": "????."
+  },
+  {
     "id": "sample-001",
     "title": "מרכז טיפול חדש בפוסט-טראומה נפתח עבור משוחררי צה\"ל",
     "summary": "מרכז שיקום חדשני המוקדש לטיפול בפוסט-טראומה עבור לוחמים משוחררים נפתח השבוע, ומציע טיפולים פורצי דרך שלא היו זמינים עד כה בישראל.",
